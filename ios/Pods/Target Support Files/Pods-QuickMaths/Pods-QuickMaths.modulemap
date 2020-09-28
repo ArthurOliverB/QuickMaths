@@ -1,0 +1,6 @@
+module Pods_QuickMaths {
+  umbrella header "Pods-QuickMaths-umbrella.h"
+
+  export *
+  module * { export * }
+}

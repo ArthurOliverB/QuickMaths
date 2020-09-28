@@ -1,0 +1,6 @@
+module Pods_QuickMaths_QuickMathsTests {
+  umbrella header "Pods-QuickMaths-QuickMathsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
